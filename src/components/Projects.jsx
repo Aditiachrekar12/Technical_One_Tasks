@@ -32,7 +32,7 @@ const Projects = () => {
                 Pet adoption platform built with HTML, CSS, JS, PHP & MySQL.
               </p>
               <a
-                href="#"
+                href="https://github.com/Aditiachrekar12/Home4Paws-Project"
                 className="inline-block px-5 py-2 mt-2 bg-[#0a192f] text-white rounded hover:bg-cyan-500 transition"
               >
                 View Details
@@ -61,7 +61,7 @@ const Projects = () => {
                 Interactive dashboard using Power BI and Excel.
               </p>
               <a
-                href="#"
+                href="/dashboard.jpg"
                 className="inline-block px-5 py-2 mt-2 bg-[#0a192f] text-white rounded hover:bg-cyan-500 transition"
               >
                 View Details
