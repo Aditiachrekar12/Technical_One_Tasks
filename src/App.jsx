@@ -30,7 +30,7 @@ function App() {
 
   return (
     <Router>
-      <div className="bg-[#0a192f] text-white overflow-x-hidden w-full">
+      <div className="bg-[#0a192f] text-white overflow-y-hidden w-full">
         <Routes>
           {/* Portfolio Main Page */}
           <Route
