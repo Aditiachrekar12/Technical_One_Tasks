@@ -13,9 +13,10 @@ const Contact = () => {
         <div className="bg-white/10 backdrop-blur-md p-8 rounded-xl shadow-xl">
           <form
             name="contact"
-            method="POST"
+            method="GET"
             data-netlify="true"
             netlify-honeypot="bot-field"
+            action="/thank-you" // 👈 Redirects to this page on success
             className="grid md:grid-cols-2 gap-6"
           >
             {/* Netlify Hidden Inputs */}
